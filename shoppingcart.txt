@@ -1,0 +1,3 @@
+var c = 45;
+var d = 95;
+console.log(c * d);
