@@ -1,0 +1,4 @@
+var a = 58;
+var b = 85;
+var c = 85;
+console.log(a + b + c);
